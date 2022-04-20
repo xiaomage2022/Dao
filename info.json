@@ -1,0 +1,11 @@
+{
+ "name": "Dao Token",
+ "website": "https://fswap.vip",
+ "description": "Dao is the most potential Dao autonomous community in the future, benchmarking fist and helping fistswap.",
+ "explorer": "https://bscscan.com/token/0xf1563f494d03753fddb066882a2b2dffd0be5b47",
+ "type": "BEP20",
+ "symbol": "FIST",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf1563f494d03753fddb066882a2b2dffd0be5b47"
+}
